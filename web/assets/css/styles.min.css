@@ -1,0 +1,19 @@
+.reg {
+  background-color: #212529;
+}
+.reg-btn {
+  color: #212529;
+  background-color: #fa6c15;
+}
+.reg-btn:hover {
+  color: #212529;
+  background-color: #ff863b;
+  --bs-btn-active-color: rgb(0, 0, 0);
+  --bs-btn-active-bg: rgb(255, 255, 255);
+}
+.forgot-password {
+  color: #b0b0b0;
+}
+.forgot-password:hover {
+  color: #fff;
+}
